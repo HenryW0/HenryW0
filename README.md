@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HenryW
 - 👀 I’m interested in Physics
-- 🌱 I’m currently learning Quantum Mechanics, Adv. E&M
+- 🌱 I’m currently learning Quantum Computing, Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
