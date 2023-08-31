@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HenryW
 - 👀 I’m interested in Software, Computational Physics, Machine Learning 
-- 🌱 I’m currently learning SQL and more!
+- 🌱 I’m currently learning SQL, C++, and more!
 - 💞️ I’m looking to collaborate on any exciting software or physics projects!
 - 📫 How to reach me: https://www.linkedin.com/in/henry-wahhab-828603213/
 
