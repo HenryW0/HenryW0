@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Henry Wahhab (Work Account (private commits): https://github.com/HenryWahhab/HenryWahhab
+- 👋 Hi, I’m Henry Wahhab (Work Account - private commits: https://github.com/HenryWahhab/HenryWahhab)
 - 👀 I’m interested in Simulation Engineering, Software Development, Computational Physics, Machine Learning 
 - 🌱 I’m currently learning JavaScript, html, SQL, C++, and more!
 - 💞️ I’m looking to collaborate on any exciting software or physics projects!
